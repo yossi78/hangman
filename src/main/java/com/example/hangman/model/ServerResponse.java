@@ -1,5 +1,6 @@
 package com.example.hangman.model;
 
+
 public class ServerResponse {
 
     private String token;
